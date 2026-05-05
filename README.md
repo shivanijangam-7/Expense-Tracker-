@@ -399,7 +399,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👤 Author
 
-**Your Name**  
+**Shivani Jangam**  
 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
